@@ -5474,7 +5474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57840ee55a964714b9320f57b544b4e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Scenes: Level3
+  Scenes: Level0
 --- !u!143 &1787810586
 CharacterController:
   m_ObjectHideFlags: 0
